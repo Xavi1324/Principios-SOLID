@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OCP.Course
 {
-    public class SemiPresencial : Course
+    public class HybridCourse : Course
     {
         public override void Subcribe(Student std)
         {
